@@ -1,6 +1,5 @@
 AppEngineWSass_shu244.egg-info
 .eggs
 dist
-myapp/.gcloudignore
 __pycache__
 *.pyc
